@@ -19,7 +19,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-*Mateus Cursino de Lima
+* Mateus Cursino de Lima
 
 ## Instruções de utilização
 
