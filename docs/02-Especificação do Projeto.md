@@ -194,7 +194,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID   | Restrição                                                                 |
 |-----|---------------------------------------------------------------------------|
-|RE-01| O projeto deverá ser entregue até a data limite de 19/06/2023.            |
+|RE-01| O projeto deverá ser entregue até a data limite.            |
 |RE-02| O aplicativo se restringe à linguagem c# back-end.                        |
 |RE-03| A equipe do projeto não poderá subcontratar o desenvolvimento do projeto. |
 
