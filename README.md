@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# My Closet Online
 
 `CURSO`
 
