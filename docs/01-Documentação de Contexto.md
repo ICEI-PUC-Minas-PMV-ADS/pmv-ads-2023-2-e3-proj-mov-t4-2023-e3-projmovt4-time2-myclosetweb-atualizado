@@ -23,7 +23,7 @@
 
 ## Objetivos
 
-  O objetivo geral deste trabalho é a criação de um web site/aplicações, capaz de catalogar, setorizar, de uma forma simples e de fácil visibilidade o guarda-roupas do usuário, fazendo com que dessa forma ele possa ter com celeridade todas as suas peças de roupas, sapatos, acessórios, evitando o desperdício de tempo, o consumo desnecessário e a falta de criatividade ao se arrumar. 
+  O objetivo geral deste trabalho é a criação de um app mobile, capaz de catalogar, setorizar, de uma forma simples e de fácil visibilidade o guarda-roupas do usuário, fazendo com que dessa forma ele possa ter com celeridade todas as suas peças de roupas, sapatos, acessórios, evitando o desperdício de tempo, o consumo desnecessário e a falta de criatividade ao se arrumar. 
 
 Como objetivos específicos, podemos destacar:
 - Conceder ao usuário um closet online com a função de ter suas peças de roupas;
