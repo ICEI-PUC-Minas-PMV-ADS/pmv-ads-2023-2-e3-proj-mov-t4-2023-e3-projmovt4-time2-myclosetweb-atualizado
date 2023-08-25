@@ -166,13 +166,13 @@ A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas p
 
 |ID    | Descrição do Requisito                                                                                                             | Prioridade |
 |------|------------------------------------------------------------------------------------------------------------------------------------|------------|
-|RF-001| O web site deve oferecer ao usuário a possibilidade de cadastro/login no site, onde através da funcionalidade acessa o seu closet. |    MÉDIA   | 
-|RF-002| O web site/aplicativo deve exibir as peças preferidas, por parte dos usuários, no botão “peças favoritas”.                         |    MÉDIA   |
-|RF-003| O web site/aplicativo deve ter uma funcionalidade de pesquisa na página principal.                                                 |    ALTA    |
-|RF-004| O site deve conter um filtro para encontrar peças com mais facilidade.                                                             |    ALTA    |
-|RF-005| O web site/aplicativo deve permitir ao usuário a inclusão/cadastro de suas roupas bem como a remoção de peças.                     |    ALTA    |
-|RF-006| O web site/aplicativo deve permitir ao usuário a composição de looks, mediante as peças cadastradas.                               |    MEDIA   |
-|RF-007| O web site/aplicativo deve permitir o compartilhamento de seus look, através de mídias sociais.                                    |    MEDIA   |         
+|RF-001| O sistema deve oferecer ao usuário a possibilidade de cadastro/login no app, onde através da funcionalidade acessa o seu closet. |    MÉDIA   | 
+|RF-002| O aplicativo deve exibir as peças preferidas, por parte dos usuários, no botão “peças favoritas”.                         |    MÉDIA   |
+|RF-003| O aplicativo deve ter uma funcionalidade de pesquisa na página principal.                                                 |    ALTA    |
+|RF-004| O sistema deve conter um filtro para encontrar peças com mais facilidade.                                                             |    ALTA    |
+|RF-005| O aplicativo deve permitir ao usuário a inclusão/cadastro de suas roupas bem como a remoção de peças.                     |    ALTA    |
+|RF-006| O aplicativo deve permitir ao usuário a composição de looks, mediante as peças cadastradas.                               |    MEDIA   |
+|RF-007| O aplicativo deve permitir o compartilhamento de seus look, através de mídias sociais.                                    |    MEDIA   |         
 
 ### Requisitos não Funcionais
 
@@ -180,12 +180,12 @@ A tabela a seguir apresenta então os requisitos não funcionais do projeto, apr
 
 |ID     | Descrição do Requisito                                                                                                                      |Prioridade |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-|RNF-001| O web site/aplicativo deve apresentar as peças em, no máximo, 4 segundos.                                                                   |   MÉDIA   | 
-|RNF-002| O web site/aplicativo deve funcionar 24h por dia, todos os dias da semana.                                                                  |   ALTA    | 
-|RNF-003| O web site deve ser responsivo, de maneira a permitir a visualização adequada por meio de dispositivo móvel.                                |   ALTA    |
-|RNF-004| O web site/aplicativo deve permitir que o usuário complete o cadastro em média 1 minuto.                                                    |   BAIXA   |
-|RNF-005| O web site/aplicativo deve ter compatibilidade com os principais navegadores, quais sejam, Firefox, Microsoft Edge, Google Chrome e Safari. |   ALTA    |
-|RNF-006| O web site/aplicativo deve apresentar, um menu de categorias.                                                                               |   ALTA    |
+|RNF-001| O aplicativo deve apresentar as peças em, no máximo, 4 segundos.                                                                   |   MÉDIA   | 
+|RNF-002| O aplicativo deve funcionar 24h por dia, todos os dias da semana.                                                                  |   ALTA    | 
+|RNF-003| O aplicativo deve ser responsivo, de maneira a permitir a visualização adequada por meio de dispositivo móvel.                                |   ALTA    |
+|RNF-004| O aplicativo deve permitir que o usuário complete o cadastro em média 1 minuto.                                                    |   BAIXA   |
+|RNF-005| O aplicativo deve ter compatibilidade com os principais navegadores, quais sejam, Firefox, Microsoft Edge, Google Chrome e Safari. |   ALTA    |
+|RNF-006| O aplicativo deve apresentar, um menu de categorias.                                                                               |   ALTA    |
 
 
 ## Restrições
