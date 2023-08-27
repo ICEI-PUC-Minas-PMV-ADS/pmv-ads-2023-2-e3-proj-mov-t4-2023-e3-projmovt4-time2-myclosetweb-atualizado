@@ -209,7 +209,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
 
-A matriz abaixo contempla todos os elementos relevantes que fazem parte do aplicativo My Closet:
+A matriz abaixo contempla todos os elementos relevantes e suas conexões que fazem parte do aplicativo My Closet:
 
 ![Matriz Rastreabilidade](img/matriz_rastreabilidade.jpg)
 
@@ -243,4 +243,4 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
 
-![Orçamento](img/02-orcamento.png)
+![Orçamento](img/orcamento_my_closet.jpg)
