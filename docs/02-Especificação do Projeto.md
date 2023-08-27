@@ -211,7 +211,7 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz abaixo contempla todos os elementos relevantes que fazem parte do aplicativo My Closet:
 
-docs/img/matriz_rastreabilidade.jpg
+![Matriz Rastreabilidade](img/matriz_rastreabilidade.jpg)
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
