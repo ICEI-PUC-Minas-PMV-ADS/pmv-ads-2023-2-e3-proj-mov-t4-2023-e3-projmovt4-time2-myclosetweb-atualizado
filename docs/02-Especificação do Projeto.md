@@ -116,12 +116,13 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+**Indicador**|**Objetivo**|**Descrição**|**Fonte e Dados**|**Perspectiva**
+:-----:|:-----:|:-----:|:-----:|:-----:
+Taxa de Utilização do Closet Online|Estimular a inserção de peças no closet online|Percentual de peças de roupas cadastradas|Banco de Dados de Peças|Interna
+Taxa de Uso da Funcionalidade de Montagem de Looks|Avaliar a utilidade da funcionalidade|Percentual de usuários que utilizaram a funcionalidade|Registro de Atividades|Cliente
+Taxa de Interação com Listas (Doação e Compras)|Avaliar a utilização das listas|Percentual de usuários que criaram ou interagiram com listas|Registro de Atividades|Cliente
+Taxa de Sucesso em Adicionar/Excluir Peças|Verificar a eficiência das ações|Percentual de ações de adição/exclusão de peças bem-sucedidas|Registro de Atividades|Interna
+Taxa de Sucesso de Login|Monitorar a eficiência de login|Percentual de logins bem-sucedidos|Registro de Atividades|Interna
 
 ## Requisitos
 
