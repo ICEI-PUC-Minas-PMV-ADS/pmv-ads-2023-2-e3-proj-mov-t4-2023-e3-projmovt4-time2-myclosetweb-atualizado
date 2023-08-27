@@ -203,7 +203,8 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![Diagrama](img/Diagrama.png)
+![DIAGRAMA CLOSET](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/0bb37cc1-6541-46e3-85df-e2bef81020c9)
+
 
 # Matriz de Rastreabilidade
 
