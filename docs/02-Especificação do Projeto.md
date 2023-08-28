@@ -197,9 +197,9 @@ Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o ger
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+O gerenciamento de equipe em projetos de TI é essencial para garantir a execução bem-sucedida do projeto, maximizando a produtividade, a qualidade e a colaboração entre os membros da equipe.
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![equipe]([img/02-project-timeline.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/7230a254d0433a477fb3509544ed60718a192303/docs/img/gerenciamento%20de%20equipe.jpeg))
 
 ## Gestão de Orçamento
 
