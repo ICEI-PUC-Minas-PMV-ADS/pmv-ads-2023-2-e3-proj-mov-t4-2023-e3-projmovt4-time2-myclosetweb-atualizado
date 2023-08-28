@@ -126,67 +126,37 @@ Taxa de Sucesso de Login|Monitorar a eficiência de login|Percentual de logins b
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
 A fase inicial do desenvolvimento de um software passa pela definição e elaboração de seus requisitos funcionais, que apresentam as possibilidades de interação entre o usuário e o programa, bem como a definição de seus requisitos não funcionais que são aqueles que norteiam os aspectos que o sistema deve apresentar de qualidade e construção. Ambos serão apresentados a seguir. 
 
 ### Requisitos Funcionais
 
 A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas prioridades de desenvolvimento e entrega.
 
-|ID    | Descrição do Requisito                                                                                                             | Prioridade |
-|------|------------------------------------------------------------------------------------------------------------------------------------|------------|
-|RF-001| O sistema deve oferecer ao usuário a possibilidade de cadastro/login no app, onde através da funcionalidade acessa o seu closet. |    MÉDIA   | 
-|RF-002| O aplicativo deve exibir as peças preferidas, por parte dos usuários, no botão “peças favoritas”.                         |    MÉDIA   |
-|RF-003| O aplicativo deve ter uma funcionalidade de pesquisa na página principal.                                                 |    ALTA    |
-|RF-004| O sistema deve conter um filtro para encontrar peças com mais facilidade.                                                             |    ALTA    |
-|RF-005| O aplicativo deve permitir ao usuário a inclusão/cadastro de suas roupas bem como a remoção de peças.                     |    ALTA    |
-|RF-006| O aplicativo deve permitir ao usuário a composição de looks, mediante as peças cadastradas.                               |    MEDIA   |
-|RF-007| O aplicativo deve permitir o compartilhamento de seus look, através de mídias sociais.                                    |    MEDIA   |         
+|ID    | Descrição do Requisito                                                                                     |Prioridade|
+|------|------------------------------------------------------------------------------------------------------------|----------|
+|RF-001| Permitir que o usuário cadastre peças de roupas.                                                           |   ALTA   | 
+|RF-002| Os usuários devem poder cadastrar informações sobre suas roupas, como nome, categoria, cor, tamanho e marca|   MÉDIA  |
+|RF-003| Os usuários podem adicionar uma foto da roupa ao cadastrá-la.                                              |   ALTA   | 
+|RF-004| O cadastro de roupas deve ser intuitivo e fácil de completar.                                              |   MÉDIA  |
+|RF-005| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   ALTA   | 
+|RF-006| Os usuários podem marcar roupas como favoritas para fácil acesso posterior.                                |   ALTA   | 
+|RF-007| Haverá uma seção específica onde os itens favoritos podem ser visualizados.                                |   ALTA   | 
+|RF-008| Os usuários podem adicionar roupas à lista de doações, indicando quais itens desejam doar.                 |   MÉDIA  |
+|RF-009| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
+|RF-010| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
+|RF-011| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   | 
 
 ### Requisitos não Funcionais
 
 A tabela a seguir apresenta então os requisitos não funcionais do projeto, apresentando também as prioridades quanto ao desenvolvimento e entrega.
 
-|ID     | Descrição do Requisito                                                                                                                      |Prioridade |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-|RNF-001| O aplicativo deve apresentar as peças em, no máximo, 4 segundos.                                                                   |   MÉDIA   | 
-|RNF-002| O aplicativo deve funcionar 24h por dia, todos os dias da semana.                                                                  |   ALTA    | 
-|RNF-003| O aplicativo deve ser responsivo, de maneira a permitir a visualização adequada por meio de dispositivo móvel.                                |   ALTA    |
-|RNF-004| O aplicativo deve permitir que o usuário complete o cadastro em média 1 minuto.                                                    |   BAIXA   |
-|RNF-005| O aplicativo deve ter compatibilidade com os principais navegadores, quais sejam, Firefox, Microsoft Edge, Google Chrome e Safari. |   ALTA    |
-|RNF-006| O aplicativo deve apresentar, um menu de categorias.                                                                               |   ALTA    |
+|ID     | Descrição do Requisito                                                                                                                                               |Prioridade |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve ser desenvolvido na linguagem React Native.                                                                                                           |   MÉDIA   | 
+|RNF-002| O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.                                                      |   MEDIA   | 
+|RNF-003| A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.                            |   ALTA    |
+|RNF-004| Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.|   ALTA    |
+|RNF-005| O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.                                 |   MEDIA   |
 
 
 ## Restrições
@@ -195,7 +165,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID   | Restrição                                                                 |
 |-----|---------------------------------------------------------------------------|
-|RE-01| O projeto deverá ser entregue até a data limite.            |
+|RE-01| O projeto deverá ser entregue até a data limite.                          |
 |RE-02| O aplicativo se restringe à linguagem c# back-end.                        |
 |RE-03| A equipe do projeto não poderá subcontratar o desenvolvimento do projeto. |
 
