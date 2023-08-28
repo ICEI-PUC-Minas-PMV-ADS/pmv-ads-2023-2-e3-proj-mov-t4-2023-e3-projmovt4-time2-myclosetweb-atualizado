@@ -191,15 +191,11 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
-
-![Diagrama]([img/02-diagrama-rede-simplificado.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/7100212bdf730cd034a27f2ba000c6ada2104a41/docs/img/Gerenciamento%20de%20tempo.jpg))
+![2dff26c6-d261-4243-9be4-54bef77424e7 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/b0a2cb03-6331-4f62-8b5f-6a7e3aaff60a)
 
 ## Gerenciamento de Equipe
 
-O gerenciamento de equipe em projetos de TI é essencial para garantir a execução bem-sucedida do projeto, maximizando a produtividade, a qualidade e a colaboração entre os membros da equipe.
-
-![equipe]([img/02-project-timeline.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/7230a254d0433a477fb3509544ed60718a192303/docs/img/gerenciamento%20de%20equipe.jpeg))
+![04f51126-8cc4-482f-8d13-e7a921ab19ad](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/eda630a2-6683-4064-9b1a-1223922d1eab)
 
 ## Gestão de Orçamento
 
