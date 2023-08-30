@@ -9,7 +9,7 @@
 |Repositório de código fonte|Github | [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-livesafe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/tree/main) | 
 |Documentos do projeto| Google Drive| X |
 |Projeto de Interface e Wireframes| Figma | X |
-|Gerenciamento do Projeto| Ferramenta git | [https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/481]|
+|Gerenciamento do Projeto| Ferramenta git | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/481|
 
 ## Controle de Versão
 
