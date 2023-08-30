@@ -79,7 +79,7 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
   **Equipe de Design:**
   * Felipe Viana
   * Sanderlei Cabral
-  * 
+  * Giovanna Maria Elias Coura
 
 
 ### Processo
