@@ -94,11 +94,11 @@ Conforme especificado anteriormente, uma vez definido o Scrum como metodologia d
 
 - Durante o projeto reuniões serão feitas durante a semana visando discutir o progresso do trabalho, cada qual com uma temática diferente, conforme segue abaixo.
 
-  . **Reunião de acompanhamento:** cada membro da equipe compartilha o que fez desde o último encontro, o que planeja fazer até a próxima reunião e eventuais impedimentos que possam estar travando o progresso do projeto.
+**Reunião de acompanhamento:** cada membro da equipe compartilha o que fez desde o último encontro, o que planeja fazer até a próxima reunião e eventuais impedimentos que possam estar travando o progresso do projeto.
   
-  . **Reunião para revisão do sprint:** nesse encontro a equipe Scrum apresenta o trabalho concluído durante o sprint. O Product Owner e outras partes interessadas podem fornecer feedback sobre o trabalho concluído e revisar o backlog do produto.
+**Reunião para revisão do sprint:** nesse encontro a equipe Scrum apresenta o trabalho concluído durante o sprint. O Product Owner e outras partes interessadas podem fornecer feedback sobre o trabalho concluído e revisar o backlog do produto.
   
-  . **Reunião de retrospectiva do sprint:** a retrospectiva do sprint é uma reunião em que a equipe Scrum revisará o sprint anterior para identificar áreas de melhoria. A equipe poderá discutir o que funcionou bem, o que não funcionou tão bem e quais mudanças podem ser feitas para melhorar o processo no futuro.
+**Reunião de retrospectiva do sprint:** a retrospectiva do sprint é uma reunião em que a equipe Scrum revisará o sprint anterior para identificar áreas de melhoria. A equipe poderá discutir o que funcionou bem, o que não funcionou tão bem e quais mudanças podem ser feitas para melhorar o processo no futuro.
 
 Esses são alguns dos principais detalhes da utilização do Scrum no projeto. É importante lembrar que o Scrum é uma metodologia flexível sendo assim adaptações podem ser feitas visando atender às necessidades específicas da equipe e/ou do projeto.
 
