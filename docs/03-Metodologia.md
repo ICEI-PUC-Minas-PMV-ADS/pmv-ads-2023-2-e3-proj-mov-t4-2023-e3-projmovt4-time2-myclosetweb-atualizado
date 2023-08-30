@@ -68,14 +68,17 @@ A equipe foi organizada, conforme abaixo, da seguinte maneira:
 
 - **Product Owner:** Andressa Guedes
 
-- **Equipe de Desenvolvimento:** . Andressa Guedes
-                                 . Felipe Viana
-                                 . Luana Scardua
-                                 . Sanderlei Cabral
+  **Equipe de Desenvolvimento:**
+  * Andressa Guedes
+  * Felipe Viana
+  * Sanderlei Cabral
+  * Matheus Da Silva Câmara
+  * Maria Júlia Silva Medeiros
                                  
-- **Equipe de Design:** . Felipe Viana
-                        . Luana Scardua
-                        . Sanderlei Cabral
+  **Equipe de Design:**
+  * Felipe Viana
+  * Sanderlei Cabral
+  * 
 
 
 ### Processo
