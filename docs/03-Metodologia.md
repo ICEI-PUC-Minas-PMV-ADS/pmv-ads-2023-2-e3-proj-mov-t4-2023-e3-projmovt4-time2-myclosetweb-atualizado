@@ -1,14 +1,15 @@
 
 # Metodologia
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
+  Para o desenvolvimento das etapas do projeto foram utilizadas as seguintes ferramentas: O hambiente de trabalho selecionado foi o Microsoft teams, a fim de serem realizadas as reuniões de checkup e trabalharmos juntos em atividades; Visual Studio 2019 para a estrutura e gestão do código fonte; GitHub como repositório e organizador de sprints e tarefas e Git para controle de versões; Figma para realizar o design do layout do front-end; e Lucidchart e Astah para a confecção do diagrama de caso de uso.
+  
 ## Relação de Ambientes de Trabalho
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+|Ambiente| Plataforma  | Link de Acesso|
+|------|--------------------|----|
+|Repositório de código fonte|Github | [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t6-livesafe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/tree/main) | 
+|Documentos do projeto| Google Drive| X |
+|Projeto de Interface e Wireframes| Figma | X |
+|Gerenciamento do Projeto| Ferramenta git | [https://trello.com/b/qleajBNt/lifesafeprojectv2 ](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/481)|
 
 ## Controle de Versão
 
