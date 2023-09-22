@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## Diagrama de Fluxo
 
-O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
+O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
 
 O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação.
 
@@ -18,9 +18,13 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Tendo como base o Diagrama de Fluxo apresentado  no  item  anterior,  as  telas  do  sistema  são apresentadas em detalhes nos itens que se seguem. As páginas do sistema apresentam uma estrutura comum padrão que é apresentada.
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+**TELA DE ENTRADA**
+
+Porta de entrada da aplicação, aqui o usuário poderá escolher entre logar (caso já tenha se registrado), ou criar um usuário e senha, através da opção de criar uma conta.
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Entrada.png">
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
