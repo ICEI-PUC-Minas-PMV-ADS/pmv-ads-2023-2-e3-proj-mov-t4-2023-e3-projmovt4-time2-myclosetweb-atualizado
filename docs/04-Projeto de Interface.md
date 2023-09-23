@@ -16,11 +16,11 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 Tendo como base o Diagrama de Fluxo apresentado  no  item  anterior,  as  telas  do  sistema  são apresentadas em detalhes nos itens que se seguem. As páginas do sistema apresentam uma estrutura comum padrão que é apresentada.
 
-**TELA DE ENTRADA**
+**TELA DE LOGIN**
 
 Porta de entrada da aplicação, aqui o usuário poderá escolher entre logar (caso já tenha se registrado), ou criar um usuário e senha, através da opção de criar uma conta.
 
-
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Log.png">
 
 **TELA DE CADASTRO**
 
