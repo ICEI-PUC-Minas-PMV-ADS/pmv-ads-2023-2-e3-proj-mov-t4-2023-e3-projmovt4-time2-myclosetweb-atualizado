@@ -43,7 +43,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
 
-![Hospedagem](hospedagem_lancamento.jpg)
+![Hospedagem](docs/img/hospedagem_lancamento.jpg)
 
 > **Links Úteis**:
 >
