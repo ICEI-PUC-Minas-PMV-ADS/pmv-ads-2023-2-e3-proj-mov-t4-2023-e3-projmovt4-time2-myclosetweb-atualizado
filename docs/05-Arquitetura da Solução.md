@@ -31,7 +31,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ![Modelo físico](tela_banco.sql.jpg)
 
-* scrip anexado (pasta src\bd)
+* scrip anexado (pasta src\bd) - src/assets/mycloset.sql
   
 ## Tecnologias Utilizadas
 
