@@ -23,7 +23,7 @@ Um diagrama de entidade-relacionamento (DER) é uma representação visual que d
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
 
-![esquema relacional](esquema_relacional.pdf)
+![esquema relacional](esquema_relacional.jpg)
  
 As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
 
