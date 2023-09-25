@@ -36,9 +36,53 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
   
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+### Front-End:
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+1. **HTML/CSS/JavaScript:** Essas são as bases para o desenvolvimento da interface do usuário.
+
+2. **Frameworks de JavaScript:** Frameworks como React Native, Node.js e Expo-CLI são frequentemente usados para criar interfaces de usuário interativas.
+
+3. **Design Responsivo:** Para garantir que o aplicativo seja acessível em dispositivos móveis, tablets e desktops.
+
+4. **UI/UX Design:** Ferramentas de design como Lucidchart, Figma, Canva e InVision são usadas para criar designs de interface do usuário.
+
+### Back-End:
+
+5. **Linguagem de Programação:** A escolha da linguagem de programação pode variar, mas linguagens populares incluem Python, Node.js (JavaScript), Java ou PHP.
+
+6. **Frameworks de Desenvolvimento:** Frameworks como Ruby on Rails, Django (Python), Express.js (Node.js) ou Spring (Java) podem acelerar o desenvolvimento.
+
+7. **Banco de Dados:** Tecnologias de banco de dados relacionais como SQL Server Management Studio (SSMS) são usadas para armazenar dados.
+
+8. **APIs:** Para integrações com serviços de terceiros, como sistemas de pagamento e sistemas de entrega, etc.
+
+### Desenvolvimento Móvel (se aplicável):
+
+9. **Plataformas Móveis:** Para desenvolvimento de aplicativos móveis, você pode usar o Android Studio (para Android) ou Xcode (para iOS).
+
+10. **Frameworks Mobile:** Para desenvolvimento multiplataforma, você pode usar React Native, Flutter ou Xamarin.
+
+### Tecnologias Inteligentes:
+
+11. **Servidores Web:** Para hospedar seu aplicativo, você pode usar serviços de hospedagem na nuvem como AWS, Google Cloud, Azure ou hospedagem compartilhada.
+
+### Sistemas de Controle de Versão:
+
+12. Ferramentas como Git e GitHub são essenciais para gerenciar o código-fonte.
+
+### Segurança:
+
+13. Implementar práticas de segurança, como autenticação de usuário, autorização, criptografia de dados e prevenção de ataques.
+
+### Testes e QA:
+
+14. Ferramentas de teste e controle de qualidade, como Jest, Selenium, ou ferramentas de automação de teste.
+
+### Monitoramento e Analytics:
+
+15. Ferramentas para monitorar o desempenho do aplicativo e coletar dados de uso, como Google Analytics ou Firebase Analytics.
+
+![0bb2b6e2-9941-492f-ab11-e75b531b5179 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/e0c02332-d5b6-47c6-8607-5cf7a30dd4c8)
 
 ## Hospedagem
 
@@ -56,6 +100,7 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 ## Qualidade de Software
 
 A norma ISO 9126 é uma norma internacional que define um conjunto de características e subcaracterísticas para a avaliação da qualidade de software.  A escolha específica de características e subcaracterísticas dependerá das necessidades e objetivos do projeto de software.
-![imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Qualidade%20de%20Softwere-1.png)
+![![0bb2b6e2-9941-492f-ab11-e75b531b5179](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/92ca2769-6662-4c64-82b4-06843a718be6)
+imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Qualidade%20de%20Softwere-1.png)
 
 
