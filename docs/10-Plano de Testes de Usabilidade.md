@@ -1,58 +1,59 @@
-# Plano de Testes de Usabilidade
+# Plano de Teste de Usabilidade
 
-| **Caso de Teste 1: Cadastro de Peças de Roupas** |                           |
-| ----------------------------------------------- | ------------------------- |
-| **Requisito Referente**                         | RF-001 (ALTA)             |
-| **Descrição**                                   | Verificar se os usuários podem cadastrar peças de roupas no aplicativo. |
-| **Objetivo do Teste**                           | Garantir que os usuários possam adicionar com sucesso peças de roupas ao seu guarda-roupas. |
-| **Passos**                                      | **Critérios de Êxito**    |
-| 1. Abrir o aplicativo.                         | A peça de roupa é salva com sucesso no guarda-roupas do usuário. |
-| 2. Selecionar a opção de cadastrar nova peça de roupa. | |
-| 3. Preencher as informações necessárias, como nome, categoria, cor, tamanho e marca. | |
-| 4. Adicionar uma foto da roupa.               | |
-| 5. Salvar a peça de roupa.                    | |
+## Objetivo do Teste
+Avaliar a usabilidade do aplicativo desenvolvido em React Native em conformidade com os requisitos não funcionais.
 
-| **Caso de Teste 2: Criação de Looks**           |                           |
-| ----------------------------------------------- | ------------------------- |
-| **Requisito Referente**                         | RF-005 (ALTA)             |
-| **Descrição**                                   | Verificar se os usuários podem criar looks combinando diferentes peças de roupa do seu guarda-roupas. |
-| **Objetivo do Teste**                           | Avaliar a funcionalidade de criação de looks. |
-| **Passos**                                      | **Critérios de Êxito**    |
-| 1. Abrir o aplicativo.                         | O look é criado com sucesso e pode ser visualizado no guarda-roupas. |
-| 2. Selecionar a opção de criar um novo look.   | |
-| 3. Escolher as peças de roupa desejadas do guarda-roupas. | |
-| 4. Nomear e salvar o look.                    | |
+## Escopo do Teste
+O teste de usabilidade abordará os seguintes requisitos não funcionais:
 
-| **Caso de Teste 3: Gerenciamento de Favoritos**  |                           |
-| ----------------------------------------------- | ------------------------- |
-| **Requisito Referente**                         | RF-006, RF-007 (ALTA)     |
-| **Descrição**                                   | Verificar se os usuários podem marcar roupas como favoritas e acessá-las facilmente. |
-| **Objetivo do Teste**                           | Avaliar a funcionalidade de marcação de roupas como favoritas e visualização da lista de favoritos. |
-| **Passos**                                      | **Critérios de Êxito**    |
-| 1. Abrir o aplicativo.                         | A peça de roupa é marcada como favorita e aparece na lista de favoritos. |
-| 2. Navegar para a seção de favoritos.          | |
+- [RNF-001](#rnf-001) - O sistema deve ser desenvolvido na linguagem React Native.
+- [RNF-002](#rnf-002) - O aplicativo deve responder de forma rápida e suave aos comandos do usuário, minimizando atrasos e travamentos.
+- [RNF-003](#rnf-003) - A interface do usuário deve ser intuitiva e de fácil compreensão, permitindo que os usuários interajam com o aplicativo sem dificuldades.
+- [RNF-004](#rnf-004) - Dados pessoais dos usuários, como informações de login e detalhes do guarda-roupa, devem ser protegidos por meio de criptografia e práticas seguras de armazenamento.
+- [RNF-005](#rnf-005) - O código-fonte do aplicativo deve ser organizado de forma modular e reutilizável para facilitar a manutenção e futuras atualizações.
 
-| **Caso de Teste 4: Filtragem e Busca**          |                           |
-| ----------------------------------------------- | ------------------------- |
-| **Requisito Referente**                         | RF-009 (ALTA)             |
-| **Descrição**                                   | Verificar se os usuários podem filtrar suas roupas por categorias. |
-| **Objetivo do Teste**                           | Avaliar a funcionalidade de filtragem por categorias. |
-| **Passos**                                      | **Critérios de Êxito**    |
-| 1. Abrir o aplicativo.                         | As peças de roupa são filtradas com base na categoria selecionada. |
-| 2. Acessar a opção de filtro por categorias.    | |
-| 3. Selecionar uma categoria (por exemplo, camisetas). | |
-| 4. Verificar se as peças de roupa são filtradas corretamente. | |
+## Metodologia
+O teste será conduzido em um ambiente de laboratório controlado, com usuários representativos da audiência-alvo. Utilizaremos uma abordagem de teste de usuário único.
 
-| **Caso de Teste 5: Edição e Remoção de Roupas** |                           |
-| ----------------------------------------------- | ------------------------- |
-| **Requisitos Referentes**                      | RF-010, RF-011 (ALTA)     |
-| **Descrição**                                   | Verificar se os usuários podem editar as informações das roupas cadastradas e remover roupas do guarda-roupas. |
-| **Objetivo do Teste**                           | Avaliar a funcionalidade de edição e remoção de roupas. |
-| **Passos**                                      | **Critérios de Êxito**    |
-| 1. Abrir o aplicativo.                         | As informações da peça de roupa são editadas com sucesso, e a peça de roupa é removida do guarda-roupas. |
-| 2. Selecionar uma peça de roupa no guarda-roupas. | |
-| 3. Editar as informações da peça de roupa.      | |
-| 4. Salvar as alterações.                      | |
-| 5. Remover uma peça de roupa do guarda-roupas. | |
+## Cenários de Teste
+
+### RNF-001 - Linguagem React Native
+- Avaliar se o aplicativo foi desenvolvido na linguagem React Native.
+
+### RNF-002 - Resposta Rápida
+- Abrir o aplicativo e avaliar a rapidez e suavidade das respostas às ações do usuário.
+- Minimizar atrasos e travamentos durante as interações.
+
+### RNF-003 - Interface Intuitiva
+- Avaliar a interface do usuário quanto à sua intuitividade e facilidade de compreensão.
+- Os usuários devem ser capazes de interagir com o aplicativo sem dificuldades.
+
+### RNF-004 - Proteção de Dados
+- Testar o processo de registro e login, avaliando a segurança dos dados pessoais dos usuários.
+- Verificar se as informações estão protegidas por criptografia e práticas seguras de armazenamento.
+
+### RNF-005 - Código Modular
+- Examinar a estrutura do código-fonte do aplicativo para garantir que seja organizado de forma modular e reutilizável.
+- Avaliar a facilidade de manutenção e atualização.
+
+## Critérios de Avaliação
+- [RNF-001](#rnf-001): Verificar se o aplicativo foi desenvolvido em React Native.
+- [RNF-002](#rnf-002): Avaliar a rapidez e suavidade das respostas do aplicativo.
+- [RNF-003](#rnf-003): Avaliar a intuitividade da interface.
+- [RNF-004](#rnf-004): Verificar a proteção de dados pessoais.
+- [RNF-005](#rnf-005): Avaliar a organização e modularidade do código.
+
+## Participantes
+Recrutaremos um grupo representativo do público-alvo do aplicativo, com diferentes níveis de habilidade técnica.
+
+## Registro de Dados
+Durante os testes, registraremos:
+- Observações sobre o cumprimento dos requisitos.
+- Tempo necessário para concluir tarefas.
+- Observações sobre dificuldades encontradas pelos usuários.
+- Comentários e feedback dos participantes.
+
+## Análise de Dados
+Após os testes, analisaremos os dados para identificar áreas de melhoria e conformidade com os requisitos. Relatórios de usabilidade serão gerados com recomendações específicas.
 
 
