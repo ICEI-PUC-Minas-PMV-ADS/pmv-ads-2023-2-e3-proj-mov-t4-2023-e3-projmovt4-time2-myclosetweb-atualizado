@@ -103,7 +103,7 @@ A norma ISO 9126 é uma norma internacional que define um conjunto de caracterí
 ![![0bb2b6e2-9941-492f-ab11-e75b531b5179](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/92ca2769-6662-4c64-82b4-06843a718be6)
 imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Qualidade%20de%20Softwere-1.png)
 
-## Requisitos de Qualidade para o Aplicativo de Guarda-Roupa Virtual
+## Requisitos de Qualidade
 
 ### Funcionalidade
 
