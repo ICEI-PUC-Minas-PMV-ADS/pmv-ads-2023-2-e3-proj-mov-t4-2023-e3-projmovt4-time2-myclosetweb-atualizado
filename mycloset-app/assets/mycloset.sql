@@ -7,6 +7,10 @@ select * from peças;
 select * from looks;
 select * from categorias;
 
+select distinct u.nome, u.ocupacao, pç.nome_pecas, pç.tamanho, c.nome_categoria from usuarios u
+inner join peças pç on pç.id_usuario=u.id_usuario and u.id_usuario=1
+inner join categorias c on c.id_usuario=u.id_usuario
+
 
 --TABELA USUÁRIOS
 
@@ -154,3 +158,15 @@ insert into categorias
 (id_categoria,	id_peças , id_usuario, id_looks, nome_categoria, data_cadastro, login_cadastro)
 values 
 (4, 4, 4,4, 'favoritas', '23/09/2023', 'categorias');
+
+select pç.id_usuario,  u.nome, pç.nome_pecas, pç.tamanho, lk.nome_looks from peças pç
+inner join looks lk on lk.id_peças=pç.id_peças
+inner join usuarios u on u.id_usuario=pç.id_usuario
+
+select count (pç.nome_pecas) as Peças from peças pç
+group by pç.nome_pecas;
+
+select count (c.nome_categoria) as categorias, u.nome,c.data_cadastro, pç.nome_pecas from categorias c
+join usuarios u on u.id_usuario=c.id_usuario
+join peças pç on pç.id_peças=c.id_peças
+group by c.nome_categoria, u.nome,c.data_cadastro, c.login_cadastro, pç.nome_pecas;
