@@ -55,11 +55,15 @@
 | 4. Salvar as alterações.                      | |
 | 5. Remover uma peça de roupa do guarda-roupas. | |
 
+| **Caso de Teste 6: Cadastro e login de usuario** |                           |
+| ----------------------------------------------- | ------------------------- |
+| **Requisitos Referentes**                      | RNF-004, RF-012 (ALTA)     |
+| **Descrição**                                   | Verificar se os usuários conseguem realizar o cadastro de email e senha e fazer login em seguida. |
+| **Objetivo do Teste**                           | Avaliar a funcionalidade de cadastro de usuário. |
+| **Passos**                                      | **Critérios de Êxito**    |
+| 1. Abrir o aplicativo.                         | Todos os passos do teste foram aprovados com sucesso. O processo de cadastro e login de usuário está funcionando conforme esperado.|
+| 2. Clicar em "Realizar Cadastro". | |
+| 3. Cadastrar um email válido e senha criptografada.      | |
+| 4. Concluir o cadastro.                      | |
+| 5. Fazer login na conta cadastrada.| |
 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
