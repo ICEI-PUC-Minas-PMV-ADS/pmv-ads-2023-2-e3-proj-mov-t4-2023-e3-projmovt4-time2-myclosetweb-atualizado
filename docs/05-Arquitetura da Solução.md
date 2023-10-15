@@ -109,7 +109,7 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 
 - **Adequação:** Fornecer uma variedade de funções para organização de guarda-roupa.
 - **Acurácia:** Alto grau de precisão na exibição de informações sobre roupas e conjuntos.
-- **Interoperabilidade:** Compatibilidade com Android, iOS e versão web.
+- **Interoperabilidade:** Compatibilidade com Android e iOS.
 - **Segurança:** Criptografia dos dados pessoais e autenticação do usuário.
 - **Conformidade:** Conformidade com as leis de proteção de dados e outras regulamentações.
 
