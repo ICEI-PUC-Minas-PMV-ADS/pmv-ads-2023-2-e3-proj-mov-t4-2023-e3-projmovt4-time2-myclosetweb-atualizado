@@ -126,7 +126,7 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 ![Relação entre funcionalidade e usabilidade](docs/img/funionalidadexusabilidade.png)
 
 
-## Qualidade dos Padrões de Codificação para Guarda-Roupa Virtual
+## Qualidade dos Padrões de Codificação
 
 ---
 
