@@ -144,7 +144,8 @@ A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas p
 |RF-008| Os usuários podem adicionar roupas à lista de doações, indicando quais itens desejam doar.                 |   MÉDIA  |
 |RF-009| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
 |RF-010| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
-|RF-011| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   | 
+|RF-011| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   |
+|RF-012| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   ALTA   |
 
 ### Requisitos não Funcionais
 
