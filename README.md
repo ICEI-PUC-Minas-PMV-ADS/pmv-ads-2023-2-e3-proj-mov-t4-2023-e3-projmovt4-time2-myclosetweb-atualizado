@@ -11,7 +11,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Andressa Júlia Guedes Ribeiro
-* Felipe De Oliveira Viana
 * Sanderlei Cabral
 * Maria Júlia Silva Medeiros
 * Matheus Da Silva Câmara
