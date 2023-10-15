@@ -96,21 +96,38 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+#### Problemas Existentes:
+- Gestão ineficiente de roupas: muitas pessoas têm roupas em excesso e não sabem como organizá-las ou o que possuem.
+- Desperdício: roupas não usadas ocupam espaço e muitas vezes são descartadas, contribuindo para o desperdício.
+
+#### Modelo Atual:
+Atualmente, as pessoas utilizam métodos tradicionais, como armários físicos e gavetas, para gerenciar suas roupas. Algumas usam planilhas ou aplicativos básicos de lista, mas essas soluções não oferecem funcionalidades como troca, venda ou doação de itens.
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+#### Limites:
+O aplicativo focará inicialmente em roupas e acessórios, excluindo outros tipos de itens como eletrodomésticos.
 
-### Processo 1 – NOME DO PROCESSO
+#### Estratégias e Objetivos:
+- Reduzir o desperdício através de trocas e doações.
+- Oferecer uma plataforma intuitiva para gerenciar itens de vestuário.
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+#### Oportunidades de Melhorias:
+- Automatizar o processo de categorização e sugestão de looks.
+- Integração com lojas online para facilitar vendas e compras.
 
+### Processo 1 – Gerenciamento de Itens
+
+#### Oportunidades de Melhorias:
+- Utilizar tecnologia de reconhecimento de imagem para categorizar itens automaticamente.
+  
 ![Processo 1](img/02-bpmn-proc1.png)
 
-### Processo 2 – NOME DO PROCESSO
+### Processo 2 – Troca e Venda de Roupas
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+#### Oportunidades de Melhorias:
+- Implementar um sistema de avaliação para os usuários e produtos.
+- Facilitar o processo de pagamento e envio.
 
 ![Processo 2](img/02-bpmn-proc2.png)
 
