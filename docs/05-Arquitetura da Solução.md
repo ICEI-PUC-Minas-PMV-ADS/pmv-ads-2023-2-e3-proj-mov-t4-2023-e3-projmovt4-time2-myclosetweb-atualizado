@@ -105,7 +105,7 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 
 ## Requisitos de Qualidade
 
-### Funcionalidade
+## Funcionalidade
 
 - **Adequação:** Fornecer uma variedade de funções para organização de guarda-roupa.
 - **Acurácia:** Alto grau de precisão na exibição de informações sobre roupas e conjuntos.
@@ -113,7 +113,7 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 - **Segurança:** Criptografia dos dados pessoais e autenticação do usuário.
 - **Conformidade:** Conformidade com as leis de proteção de dados e outras regulamentações.
 
-### Usabilidade
+## Usabilidade
 
 - **Inteligibilidade:** Design intuitivo para fácil navegação.
 - **Apreensibilidade:** Inclusão de tutoriais ou guias para auxiliar novos usuários.
@@ -121,16 +121,14 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 - **Atratividade:** Design visualmente agradável, com uma paleta de cores apropriada.
 - **Conformidade:** Adesão às melhores práticas e padrões da indústria para design de UI/UX.
 
----
 
 ![Relação entre funcionalidade e usabilidade](docs/img/funionalidadexusabilidade.png)
 
 
 ## Qualidade dos Padrões de Codificação
 
----
 
-### Local Storage
+## Local Storage
 
 - **Nomeação de Chaves**: 
   - Use nomes descritivos e claros para facilitar a compreensão.
@@ -143,9 +141,8 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 - **Segurança**: 
   - Evite armazenar informações sensíveis, já que o Local Storage é acessível via JavaScript no navegador.
 
----
 
-### JSON
+## JSON
 
 - **Indentação**: 
   - Mantenha a indentação consistente, preferencialmente com 2 espaços, para facilitar a leitura do JSON.
