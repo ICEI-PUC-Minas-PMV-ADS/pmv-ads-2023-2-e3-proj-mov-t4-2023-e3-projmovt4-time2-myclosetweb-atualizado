@@ -121,7 +121,7 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 - **Atratividade:** Design visualmente agradável, com uma paleta de cores apropriada.
 - **Conformidade:** Adesão às melhores práticas e padrões da indústria para design de UI/UX.
 
-
+![Relação entre funcionalidade e usabilidade do aplicativo](docs/img/funionalidadexusabilidade.png)
 
 
 
