@@ -121,7 +121,7 @@ O aplicativo focará inicialmente em roupas e acessórios, excluindo outros tipo
 #### Oportunidades de Melhorias:
 - Utilizar tecnologia de reconhecimento de imagem para categorizar itens automaticamente.
   
-![Processo 1]([img/02-bpmn-proc1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Blank%20diagram%20-%20Page%201.png)
+![img/02-bpmn-proc1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Blank%20diagram%20-%20Page%201.png)
 
 ### Processo 2 – Troca e Venda de Roupas
 
@@ -129,7 +129,7 @@ O aplicativo focará inicialmente em roupas e acessórios, excluindo outros tipo
 - Implementar um sistema de avaliação para os usuários e produtos.
 - Facilitar o processo de pagamento e envio.
 
-![Processo 2](img/02-bpmn-proc2.png)
+![(img/02-bpmn-proc2.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Blank%20diagram%20-%20Page%202.png)
 
 ## Indicadores de Desempenho
 
