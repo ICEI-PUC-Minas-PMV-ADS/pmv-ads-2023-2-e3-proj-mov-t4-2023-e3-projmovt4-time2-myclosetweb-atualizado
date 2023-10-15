@@ -121,7 +121,45 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 - **Atratividade:** Design visualmente agradável, com uma paleta de cores apropriada.
 - **Conformidade:** Adesão às melhores práticas e padrões da indústria para design de UI/UX.
 
+---
+
 ![Relação entre funcionalidade e usabilidade](docs/img/funionalidadexusabilidade.png)
+
+
+## Qualidade dos Padrões de Codificação para Guarda-Roupa Virtual
+
+---
+
+### Local Storage
+
+- **Nomeação de Chaves**: 
+  - Use nomes descritivos e claros para facilitar a compreensão.
+  - Exemplo: Em vez de 'usr', use 'userProfile'.
+
+- **Verificação de Existência**: 
+  - Sempre verifique se a chave já existe no Local Storage antes de tentar recuperar dados.
+  - Exemplo: Use `localStorage.getItem('chave') !== null` para esta verificação.
+
+- **Segurança**: 
+  - Evite armazenar informações sensíveis, já que o Local Storage é acessível via JavaScript no navegador.
+
+---
+
+### JSON
+
+- **Indentação**: 
+  - Mantenha a indentação consistente, preferencialmente com 2 espaços, para facilitar a leitura do JSON.
+
+- **Nomeação de Atributos**: 
+  - Use camelCase para nomear atributos.
+  - Exemplo: `"firstName": "John"`
+
+- **Validação de JSON**: 
+  - Certifique-se de que o JSON é válido antes de usá-lo em sua aplicação.
+  - Ferramentas como JSONLint podem ser úteis para isso.
+
+- **Tipo de Dados**: 
+  - Seja consistente com os tipos de dados. Se um campo é numérico, garanta que ele seja numérico em todas as entradas.
 
 
 
