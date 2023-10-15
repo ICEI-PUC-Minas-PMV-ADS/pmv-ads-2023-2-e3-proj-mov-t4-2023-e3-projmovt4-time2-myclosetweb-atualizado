@@ -103,4 +103,25 @@ A norma ISO 9126 é uma norma internacional que define um conjunto de caracterí
 ![![0bb2b6e2-9941-492f-ab11-e75b531b5179](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/92ca2769-6662-4c64-82b4-06843a718be6)
 imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Qualidade%20de%20Softwere-1.png)
 
+## Requisitos de Qualidade para o Aplicativo de Guarda-Roupa Virtual
+
+### Funcionalidade
+
+- **Adequação:** Fornecer uma variedade de funções para organização de guarda-roupa.
+- **Acurácia:** Alto grau de precisão na exibição de informações sobre roupas e conjuntos.
+- **Interoperabilidade:** Compatibilidade com Android, iOS e versão web.
+- **Segurança:** Criptografia dos dados pessoais e autenticação do usuário.
+- **Conformidade:** Conformidade com as leis de proteção de dados e outras regulamentações.
+
+### Usabilidade
+
+- **Inteligibilidade:** Design intuitivo para fácil navegação.
+- **Apreensibilidade:** Inclusão de tutoriais ou guias para auxiliar novos usuários.
+- **Operabilidade:** Facilidade de uso com controles bem projetados, como filtros e recursos de busca.
+- **Atratividade:** Design visualmente agradável, com uma paleta de cores apropriada.
+- **Conformidade:** Adesão às melhores práticas e padrões da indústria para design de UI/UX.
+
+
+
+
 
