@@ -9,7 +9,7 @@
 |Repositório de código fonte|Github | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/tree/main| 
 |Documentos do projeto| Google Drive| X |
 |Projeto de Interface e Wireframes| Figma | X |
-|Gerenciamento do Projeto| Github | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/481|
+|Gerenciamento do Projeto| Trello | (https://trello.com/b/vSDNasLG/projeto-eixo-3)|
 
 ## Controle de Versão
 
