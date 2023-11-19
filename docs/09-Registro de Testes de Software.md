@@ -44,6 +44,11 @@ Todos os passos do teste foram aprovados com sucesso. O processo de cadastro e l
 Nenhuma observação adicional. Todos os testes foram bem-sucedidos e sem problemas encontrados.
 
 **Os testes de software serão realizados com ferramentas como MochaJs de acordo com o ciclo de entregas e fechamentos de sprints.**
+'video referente ao teste de software:'
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/14ee9ebe-a2f8-48a0-8de1-7276ce1c9152
+
+
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
