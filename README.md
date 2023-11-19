@@ -1,12 +1,12 @@
 # My Closet Online
 
-`CURSO`
+`Tecnologia em Análise e Desenvolvimento de Sistema`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`Eixo 3`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o intuito de facilitar o controle de peças disponíveis em seu guarda roupa e dar uma maior visibilidade em relação ao seu guarda roupa.
 
 ## Integrantes
 
