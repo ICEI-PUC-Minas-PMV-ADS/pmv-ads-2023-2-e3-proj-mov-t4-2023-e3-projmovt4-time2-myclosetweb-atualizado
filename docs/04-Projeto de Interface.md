@@ -33,6 +33,10 @@ Aqui, o usuário que está acessando a aplicação pela primeira vez irá digita
 
 
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/b07f9092-c4bb-4a2a-b58f-788ddfcfeafb
+
+
+
 **TELA DE MENU**
 
 Uma vez dentro da aplicação, apresentamos ao usuário um menu minimalista onde o usuário poderá encontrar tudo que precisa para interagir com o aplicativo.
