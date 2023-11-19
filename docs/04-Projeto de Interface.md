@@ -21,14 +21,16 @@ Tendo como base o Diagrama de Fluxo apresentado  no  item  anterior,  as  telas 
 
 Porta de entrada da aplicação, aqui o usuário poderá escolher entre logar (caso já tenha se registrado), ou criar um usuário e senha, através da opção de criar uma conta.
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Log.png">
+![Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/417d3cc9-3119-4e4f-9dd0-5594d8a74277)
+
 
 
 **TELA DE CADASTRO**
 
 Aqui, o usuário que está acessando a aplicação pela primeira vez irá digitar seus dados para criar um login e senha.
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Cadastro.png">
+![cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/e19abded-4c03-49c6-8f99-1a6b39de8b58)
+
 
 
 **TELA DE MENU**
