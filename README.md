@@ -1,5 +1,8 @@
 # My Closet Online
 
+![Logotipo MyCloset] https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/7632be7c-fa14-4f1e-8b44-9a3a2d40938c)
+
+
 `Tecnologia em Análise e Desenvolvimento de Sistema`
 
 `Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
