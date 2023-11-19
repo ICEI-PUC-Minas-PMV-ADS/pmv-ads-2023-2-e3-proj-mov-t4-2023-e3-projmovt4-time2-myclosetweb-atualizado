@@ -68,7 +68,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 ### Segurança:
 
 12. Implementar práticas de segurança, como autenticação de usuário, autorização, criptografia de dados e prevenção de ataques. Ele combina o React, o Node. js, o Express e o MongoDB em um único pacote.
-13. 
+
 
 ### Testes e QA:
 
