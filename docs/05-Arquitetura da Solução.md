@@ -60,13 +60,15 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 10. **Servidores Web:** Para hospedar seu aplicativo, você pode usar serviços de hospedagem na nuvem como AWS, Google Cloud, Azure ou hospedagem compartilhada.
 
-### Sistemas de Controle de Versão:
+### Sistemas:
 
-11. Ferramentas como Git e GitHub são essenciais para gerenciar o código-fonte.
+11. O sistema utilizado foi o MERN stack, que é um framework JavaScript full-stack que simplifica o desenvolvimento de aplicações web modernas. 
+![WhatsApp Image 2023-11-19 at 11 50 47](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/fbb85e72-ceb0-485f-aa2a-38bbccac9f58)
 
 ### Segurança:
 
-12. Implementar práticas de segurança, como autenticação de usuário, autorização, criptografia de dados e prevenção de ataques.
+12. Implementar práticas de segurança, como autenticação de usuário, autorização, criptografia de dados e prevenção de ataques. Ele combina o React, o Node. js, o Express e o MongoDB em um único pacote.
+13. 
 
 ### Testes e QA:
 
