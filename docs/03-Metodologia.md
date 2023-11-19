@@ -107,7 +107,7 @@ Esses são alguns dos principais detalhes da utilização do Scrum no projeto. �
 
 O projeto está sendo desenvolvido com o auxílio das seguintes ferramentas, conforme apresentado à baixo:
 
-- **Repositório de Código Fonte:** GitHub (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb)
+- **Repositório de Código Fonte:** [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb)
 - **Gerenciamento do Projeto:** GitHub
 - **Ferramenta de Comunicação:** Microsoft Teams
 - **Editor de Código:** Visual Studio v.2019
