@@ -1,6 +1,7 @@
 # My Closet Online
 
-![Logotipo MyCloset] (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/7632be7c-fa14-4f1e-8b44-9a3a2d40938c)
+![WhatsApp Image 2023-10-14 at 16 13 24](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/be8304a6-ebce-4e82-8512-f5ef8927ee80)
+
 
 
 `Tecnologia em Análise e Desenvolvimento de Sistema`
