@@ -38,9 +38,8 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ### Front-End:
 
-1. **HTML/CSS/JavaScript:** Essas são as bases para o desenvolvimento da interface do usuário.
-
-2. **Frameworks de JavaScript:** Frameworks como React Native, Node.js e Expo-CLI são frequentemente usados para criar interfaces de usuário interativas.
+1. **JavaScript** 
+2. **Frameworks de JavaScript:** React Native, Node.js.
 
 3. **Design Responsivo:** Para garantir que o aplicativo seja acessível em dispositivos móveis, tablets e desktops.
 
@@ -50,37 +49,32 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 5. **Linguagem de Programação:** A escolha da linguagem de programação pode variar, mas linguagens populares incluem Python, Node.js (JavaScript), Java ou PHP.
 
-6. **Frameworks de Desenvolvimento:** Frameworks como Ruby on Rails, Django (Python), Express.js (Node.js) ou Spring (Java) podem acelerar o desenvolvimento.
+6. **Frameworks de Desenvolvimento:** Express.js (Node.js).
 
-7. **Banco de Dados:** Tecnologias de banco de dados relacionais como SQL Server Management Studio (SSMS) são usadas para armazenar dados.
+7. **Banco de Dados:** MongoDb 
 
 8. **APIs:** Para integrações com serviços de terceiros, como sistemas de pagamento e sistemas de entrega, etc.
 
-### Desenvolvimento Móvel (se aplicável):
-
-9. **Plataformas Móveis:** Para desenvolvimento de aplicativos móveis, você pode usar o Android Studio (para Android) ou Xcode (para iOS).
-
-10. **Frameworks Mobile:** Para desenvolvimento multiplataforma, você pode usar React Native, Flutter ou Xamarin.
 
 ### Tecnologias Inteligentes:
 
-11. **Servidores Web:** Para hospedar seu aplicativo, você pode usar serviços de hospedagem na nuvem como AWS, Google Cloud, Azure ou hospedagem compartilhada.
+10. **Servidores Web:** Para hospedar seu aplicativo, você pode usar serviços de hospedagem na nuvem como AWS, Google Cloud, Azure ou hospedagem compartilhada.
 
 ### Sistemas de Controle de Versão:
 
-12. Ferramentas como Git e GitHub são essenciais para gerenciar o código-fonte.
+11. Ferramentas como Git e GitHub são essenciais para gerenciar o código-fonte.
 
 ### Segurança:
 
-13. Implementar práticas de segurança, como autenticação de usuário, autorização, criptografia de dados e prevenção de ataques.
+12. Implementar práticas de segurança, como autenticação de usuário, autorização, criptografia de dados e prevenção de ataques.
 
 ### Testes e QA:
 
-14. Ferramentas de teste e controle de qualidade, como Jest, Selenium, ou ferramentas de automação de teste.
+13. Ferramentas de teste e controle de qualidade, como Jest, Selenium, ou ferramentas de automação de teste.
 
 ### Monitoramento e Analytics:
 
-15. Ferramentas para monitorar o desempenho do aplicativo e coletar dados de uso, como Google Analytics ou Firebase Analytics.
+14. Ferramentas para monitorar o desempenho do aplicativo e coletar dados de uso, como Google Analytics ou Firebase Analytics.
 
 ![0bb2b6e2-9941-492f-ab11-e75b531b5179 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/e0c02332-d5b6-47c6-8607-5cf7a30dd4c8)
 
