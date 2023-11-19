@@ -4,7 +4,7 @@
 - **Data:** 19/11/2023
 - **Responsável pelos Testes:** Andressa Julia Guedes Ribeiro
 - **Versão da Aplicação Testada:** 1.0.0
-- **Plano de Testes:** Cadastro e Login de Usuários
+- **Plano de Testes:** Cadastro, Login de Usuários e adicionar peças.
 
 ---
 
@@ -13,7 +13,7 @@
 **Requisitos Referentes:** RNF-004, RF-012 (ALTA)
 
 **Descrição:**
-Verificar se os usuários conseguem realizar o cadastro de email e senha e fazer login em seguida.
+Verificar se os usuários conseguem realizar o cadastro de email e senha,fazer login em seguida e adicionar peças.
 
 **Objetivo do Teste:**
 Avaliar a funcionalidade de cadastro de usuário.
@@ -24,11 +24,14 @@ Avaliar a funcionalidade de cadastro de usuário.
 3. Cadastrar um email válido e senha criptografada.
 4. Concluir o cadastro.
 5. Fazer login na conta cadastrada.
+6. Clicar no botão de adição de peças.
+7. Adicionar uma peça de roupa.
 
 **Critérios de Êxito:**
 - O usuário deve ser capaz de abrir o aplicativo sem problemas.
 - O processo de cadastro deve aceitar um email válido e uma senha criptografada.
 - Após o cadastro, o usuário deve conseguir fazer login na sua conta sem dificuldades.
+- O usuario deve conseguir adicionar peça de roupa.
 
 **Resultados:**
 - **Passo 1:** Aprovado
@@ -36,9 +39,11 @@ Avaliar a funcionalidade de cadastro de usuário.
 - **Passo 3:** Aprovado
 - **Passo 4:** Aprovado
 - **Passo 5:** Aprovado
+- **Passo 6:** Aprovado
+- **Passo 7:** Aprovado
 
 **Conclusão:**
-Todos os passos do teste foram aprovados com sucesso. O processo de cadastro e login de usuário está funcionando conforme esperado.
+Todos os passos do teste foram aprovados com sucesso. O processo de cadastro e login de usuário está funcionando conforme esperado como também a adição de peças de roupa.
 
 **Observações Adicionais:**
 Nenhuma observação adicional. Todos os testes foram bem-sucedidos e sem problemas encontrados.
