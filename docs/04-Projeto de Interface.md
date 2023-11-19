@@ -29,11 +29,10 @@ Porta de entrada da aplicação, aqui o usuário poderá escolher entre logar (c
 
 Aqui, o usuário que está acessando a aplicação pela primeira vez irá digitar seus dados para criar um login e senha.
 
-![cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/e19abded-4c03-49c6-8f99-1a6b39de8b58)
+![Untitled38_20231119164204](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/685db79a-e0c7-4caa-9391-dc3e8355c225)
 
 
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/b07f9092-c4bb-4a2a-b58f-788ddfcfeafb
 
 
 
