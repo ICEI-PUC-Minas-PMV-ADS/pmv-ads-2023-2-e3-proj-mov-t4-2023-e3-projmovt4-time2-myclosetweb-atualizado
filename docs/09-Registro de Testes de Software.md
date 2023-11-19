@@ -1,7 +1,7 @@
 # Registro de Testes de Software
 
 **Informações Gerais:**
-- **Data:** 15/10/2023
+- **Data:** 19/11/2023
 - **Responsável pelos Testes:** Andressa Julia Guedes Ribeiro
 - **Versão da Aplicação Testada:** 1.0.0
 - **Plano de Testes:** Cadastro e Login de Usuários
