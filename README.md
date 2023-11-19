@@ -1,6 +1,6 @@
 # My Closet Online
 
-![WhatsApp Image 2023-10-14 at 16 13 24](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/be8304a6-ebce-4e82-8512-f5ef8927ee80)
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/be8304a6-ebce-4e82-8512-f5ef8927ee80" width="300" height="300"/>
 
 
 
