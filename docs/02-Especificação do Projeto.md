@@ -8,89 +8,80 @@ A definição dos problemas e necessidades detectados para idealizar esse projet
 
 Personas - As personas levantadas durante o processo de entendimento do problema são apresentadas no quadro a seguir.
 
-|PERSONA 1                                  |                                         |                                        |
-|-------------------------------------------|-----------------------------------------|----------------------------------------|
-|Nome: Joana                                |Características:                         | Aplicativos:                           |
-|Estado civil: Solteira                     |Sonhadora                                |CapCut                                  |
-|Idade: 22 anos                             |Calma;                                   |Canvas                                  |
-|Ocupação: Mestrado na área de Arquitetura  |Dedicada;                                |Instagram                               |
-|Salário: 2.500,00                          |Comprometida;                            |Twitter                                 |
-|Estado civil: Solteira                     |Vegana;                                  |Pinterest                               |
-|                                           |Feminista;                               |                                        |
-|Hobbies:                                   |Minimalista;                             |Frustrações:                            |
-|Fazer trilha;                              |Engajada em causas sociais;              |Consumismo exacerbado;                  |
-|Ler;                                       |Adora animais de estimação e a natureza. |Descaso com a natureza e o planeta;     |
-|Ouvir Música;                              |                                         |Capitalismo Desenfreado;                |
-|Cozinhar.                                  |Valores/Crenças:                         |Não conseguir fazer mais pelo planeta.  |
-|                                           |Acredita em preservação ambiental;       |                                        |
-|                                           |preservação ambiental;                   |Motivações:                             |
-|                                           |Consome somente o necessário;            |Ser uma pessoa melhor a cada dia;       |
-|                                           |Acredita que menos é mais                |Ajudar as pessoas e o planeta;          |
-|                                           |                                         |Criar projetos de moradias sustentáveis |
+<h3 align="center">Persona 1</h3>
+
+| **Aspectos**        | **Detalhes**                                       | **Observações**                                    |
+|---------------------|----------------------------------------------------|----------------------------------------------------|
+| **Nome**            | Joana                                              |                                                    |
+| **Estado Civil**    | Solteira                                           |                                                    |
+| **Idade**           | 22 anos                                            |                                                    |
+| **Ocupação**        | Mestrado na área de Arquitetura                    |                                                    |
+| **Salário**         | R$ 2.500,00                                        |                                                    |
+| **Características** | Sonhadora, Calma, Dedicada, Adora animais de estimação e a natureza| Vegana, Feminista, Minimalista, Engajada em causas sociais |
+| **Aplicativos**     | Corte de Tampa, Tela, Instagram                    | Twitter, Pinterest                                 |
+| **Hobbies**         | Fazer trilha, Ler                                  | Ouvir música, Cozinhar                             |
+| **Frustrações**     | Consumismo exacerbado, Descaso com a natureza      | Capitalismo Desenfreado, "Não consigo fazer mais pelo planeta" |
+| **Valores/Crenças** | Preservação ambiental, Consumir o necessário       | Acredita que menos é mais                          |
+| **Motivações**      | Ser uma pessoa melhor, Ajudar pessoas e o planeta  | Criar projetos de moradias sustentáveis            |
 
 
-|Persona 2                                  |                                         |                                        | 
-|-------------------------------------------|-----------------------------------------|----------------------------------------|
-|Nome: Laura                                |Características:                         |Aplicativos:
-|Idade: 29 anos                             |Extrovertida;                            |Instagram                          
-|Ocupação: Médica                           |Determinada;                             |Twitter
-|Salário: 12.000,00                         |Independente;                            |Linkedin
-|Estado civil: Noiva                        |Consumista (mas quer melhorar);          |Pinterest
-|Salário: 12.000,00                         |Focada na carreira;                      |Mojo
-|                                           |Não quer ter filhos;                     |
-|                                           |                                         |
-|Hobbies:                                   |Valores/Crenças:                         |Frustrações:                                
-|Ler;                                       |É leal a ela mesma e aos seus objetivos; |É  muito perfeccionista e isso acaba atrapalhando um pouco; 
-|Sair com as amigas;                        |Quem não vai à luta perde a batalha.     |Não abriu seu próprio consultório ainda
-|Conhecer bons restaurantes;                |Acredita que o sucesso só depende  do trabalho     |Não ter conseguido fazer uma especialização internacional;
-|Comprar roupas, bolsas e sapatos.          |                                         |
-|Viajar;                                    |                                         |
-|                                           |                                         |
-|                                           |                                         |Motivações: 
-|                                           |                                         |Ser uma profissional extremamente bem sucedida;
-|                                           |                                         |Ajudar muitos pacientes através do seu trabalho;
-|                                           |                                         |Comprar uma casa linda e se casar;
-|                                           |                                         |Tentar ser um pouco menos consumista.
+
+<h3 align="center">Persona 2</h3>
 
 
-|Persona 3                       |                              |                                      |
-|--------------------------------|------------------------------|--------------------------------------------|
-|Nome: Clara                     | Características:             |Aplicativos: |
-|Idade: 32 anos                  | Trabalha muito;              |Revistas de modas;
-|Ocupação: Empresária (empresa de consultoria de imagem)| Determinada; |Instagram;
-|Salário: Entre 20.000,00 e 30.000,00|Muito apaixonada pela família,|Pinterest;
-|Estado civil: Casada com um filho.|Dedicada;|
-|                                  |Detalhista;|                                                                                                                       |                                  |                                                    
-|Hobbies:                          |
-|Viajar;                           |Valores/Crenças: |  Frustrações:           
-|Correr;                           |Você deve ser vestir para o cargo que deseja alcançar;|Não poder aumentar a família;
-|Sair para teatros e museus;       |Trabalhar é servir e isso é o que move o ser humano;|Morar longe dos pais;             
-|Ficar com a família;              |Todo meu esforço é pela minha família.|Dificuldade de empreender no país
-|Cozinhar;                         | A família é a base do sucesso.|
-|Ler;                              |Acredita que a aparência importa 
-|                                  | |
-|                                 || Motivações: 
-|                                  ||Ter uma família feliz e unida;
-|                                  ||Ajudar mulheres a se sentirem mais bonitas, valorizadas e poderosas através do seu trabalho.
-|                                  ||Ser bem sucedida;
-|                                  ||Comprar uma casa no campo;
+| **Aspectos**        | **Detalhes**                                       | **Observações**                                    |
+|---------------------|----------------------------------------------------|----------------------------------------------------|
+| **Nome**            | Laura                                              |                                                    |
+| **Idade**           | 29 anos                                            |                                                    |
+| **Ocupação**        | Médica                                             |                                                    |
+| **Salário**         | R$ 12.000,00                                       |                                                    |
+| **Estado Civil**    | Noiva                                              |                                                    |
+| **Características** | Extrovertida, Determinada, Independente            | Consumista (quer melhorar), Focada na carreira, Não quer ter filhos |
+| **Aplicativos**     | Instagram, Twitter, Linkedin                       | Pinterest, Mojo                                    |
+| **Hobbies**         | Ler, Sair com as amigas, Conhecer bons restaurantes| Comprar roupas, bolsas e sapatos, Viajar           |
+| **Valores/Crenças** | É leal a si mesma e aos seus objetivos             | Quem não vai à luta perde a batalha, Acredita que o sucesso depende do trabalho |
+| **Frustrações**     | É muito perfeccionista                             | Não abriu seu próprio consultório, Não fez especialização internacional, Não ser menos consumista|
+| **Motivações**      | Ser uma profissional bem sucedida, Tentar ser menos consumista| Ajudar pacientes, Comprar casa e casar  |
 
+
+
+<h3 align="center">Persona 3</h3>
+
+
+
+| **Aspectos**        | **Detalhes**                                       | **Observações**                                    |
+|---------------------|----------------------------------------------------|----------------------------------------------------|
+| **Nome**            | Clara                                              |                                                    |
+| **Idade**           | 32 anos                                            |                                                    |
+| **Ocupação**        | Empresária (consultoria de imagem)                 |                                                    |
+| **Salário**         | Entre R$ 20.000,00 e R$ 30.000,00                  |                                                    |
+| **Estado Civil**    | Casada com um filho                                |                                                    |
+| **Características** | Trabalha muito, Determinada, Apaixonada pela família| Dedicada, Detalhista                               |
+| **Aplicativos**     | Revistas de moda, Instagram                        | Pinterest                                          |
+| **Hobbies**         | Viajar, Correr                                     | Sair para teatros e museus, Ficar com a família    |
+|                     | Cozinhar, Ler                                      |                                                    |
+| **Valores/Crenças** | Vestir-se para o cargo desejado                    | Trabalhar é servir, Esforço pela família           |
+|                     | A família é a base do sucesso                      | A aparência importa                                |
+| **Frustrações**     | Não pode aumentar a família                        | Morar longe dos pais, Dificuldades de empreender   |
+| **Motivações**      | Ter uma família feliz e unida,  Ser bem sucedida   | Ajudar mulheres a se sentirem mais bonitas e poderosas e Comprar uma casa no campo  |
 
 ## Histórias de Usuários
 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Joana | fazer uso das funcionalidades do app para catalogar todas as minhas peças de roupas, sapatos e acessórios |criar mais  combinações de looks, mesmo com poucas peças|
-|Joana | fazer uso das funcionalidades do app para ter um estilo próprio e autêntico, mas sem cair na armadilha do consumo desenfreado | de forma criativa e consciente, fugir das amarras do consumismo. promovendo um mundo mais equilibrado no âmbito ambiental e pessoal|
-|Joana| fazer uso das funcionalidades do app para diminuir meu consumo de roupas descartáveis e desnecessárias | promover um estilo de vida mais minimalista e sustentável|
-|Laura | fazer uso das funcionalidades do app para adotar uma mentalidade minimalista em relação à moda com foco nas roupas que realmente preciso, coibindo assim compras impulsivas | reduzir o consumo de peças de roupas novas e investir em peças de qualidade, com maior durabilidade e versatilidade |
-|Laura| fazer uso das funcionalidades do app para catalogar peças velhas, gastas | reparar itens danificados e doar a terceiros|
-|Laura|fazer uso das funcionalidades do app para rastrear peças e acessórios em desuso | trocar e assim adquirir peças multifuncionais e ecológicas|
-|Clara|fazer uso das funcionalidades do app ter mais praticidade, agilidade e foco na vestimenta da ocasião |assessoria visual na montagem de looks diários|
-|Clara|fazer uso das funcionalidades do app priorizar o consumo e novas aquisições de peças mais duráveis |evitar o consumo de produtos sintéticos e de difícil decomposição |
-|Clara|fazer uso das funcionalidades do app e organizar o meu closet por segmento de uso (descolado, empresarial, moda praia, inverno, etc) |evitar compras de itens que já possuo, bem como itens que não combine com o que já tenho|
+
+| EU COMO (Persona) | QUERO/PRECISO (Funcionalidade) | PARA (Motivo/Valor) |
+|-------------------|--------------------------------|---------------------|
+| Joana             | Fazer uso das funcionalidades do app para catalogar todas as minhas peças de roupas, sapatos e acessórios | Criar mais combinações de looks, mesmo com poucas peças |
+| Joana             | Fazer uso das funcionalidades do app para ter um estilo próprio e autêntico, mas sem cair na armadilha do consumo desenfreado | De forma criativa e consciente, fugir das amarras do consumismo. Promover um mundo mais equilibrado no âmbito ambiental e pessoal |
+| Joana             | Fazer uso das funcionalidades do app para diminuir meu consumo de roupas desnecessárias | Promover um estilo de vida mais minimalista e sustentável |
+| Laura             | Fazer uso das funcionalidades do app para adotar uma mentalidade minimalista em relação à moda com foco nas roupas que realmente precisam, coibindo compras impulsivas | Reduzir o consumo de peças de roupas novas e investir em peças de qualidade, com maior durabilidade e especificidades |
+| Laura             | Fazer uso das funcionalidades do app para catalogar peças velhas, gastas | Reparar itens danificados e doar a terceiros |
+| Laura             | Fazer uso das funcionalidades do app para rastrear peças e acessórios em desuso | Trocar e assim adquirir peças multifuncionais e ecológicas |
+| Clara             | Fazer uso das funcionalidades do app com mais praticidade, agilidade e foco na vestimenta da ocasião | Assessoria visual na montagem de looks diários |
+| Clara             | Fazer uso das funcionalidades do app priorizando o consumo e novas aquisições de peças mais resistentes | Evitar o consumo de produtos sintéticos e de difícil resistência |
+| Clara             | Fazer uso das funcionalidades do app e organizar meu armário por segmento de uso (descolado, empresarial, moda praia, inverno, etc) | Evitar compras de itens que já possuo, bem como itens que não combinam com o que já tenho |
+
 
 ## Modelagem do Processo de Negócio 
 
