@@ -22,7 +22,7 @@ Este projeto trata-se do desenvolvimento de uma aplicação funcional, com o int
 
 ## Orientador
 
-* Mateus Cursino de Lima
+* Mateus Curcino de Lima
 
 ## Instruções de utilização
 
