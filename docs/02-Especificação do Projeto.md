@@ -56,14 +56,13 @@ Personas - As personas levantadas durante o processo de entendimento do problema
 | **Ocupação**        | Empresária (consultoria de imagem)                 |                                                    |
 | **Salário**         | Entre R$ 20.000,00 e R$ 30.000,00                  |                                                    |
 | **Estado Civil**    | Casada com um filho                                |                                                    |
-| **Características** | Trabalha muito, Determinada, Apaixonada pela família| Dedicada, Detalhista                               |
+| **Características** | Trabalha muito, Determinada, Apaixonada pela família| Dedicada, Detalhista                              |
 | **Aplicativos**     | Revistas de moda, Instagram                        | Pinterest                                          |
-| **Hobbies**         | Viajar, Correr                                     | Sair para teatros e museus, Ficar com a família    |
-|                     | Cozinhar, Ler                                      |                                                    |
+| **Hobbies**         | Viajar, Correr, Cozinhar, Ler                      | Sair para teatros e museus, Ficar com a família    |
 | **Valores/Crenças** | Vestir-se para o cargo desejado                    | Trabalhar é servir, Esforço pela família           |
 |                     | A família é a base do sucesso                      | A aparência importa                                |
 | **Frustrações**     | Não pode aumentar a família                        | Morar longe dos pais, Dificuldades de empreender   |
-| **Motivações**      | Ter uma família feliz e unida,  Ser bem sucedida   | Ajudar mulheres a se sentirem mais bonitas e poderosas e Comprar uma casa no campo  |
+| **Motivações**      | Ter uma família feliz e unida,  Ser bem sucedida   | Ajudar mulheres a se sentirem mais bonitas e poderosas e Comprar uma casa no campo|
 
 ## Histórias de Usuários
 
