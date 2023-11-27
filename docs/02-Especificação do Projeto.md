@@ -8,7 +8,7 @@ A definição dos problemas e necessidades detectados para idealizar esse projet
 
 Personas - As personas levantadas durante o processo de entendimento do problema são apresentadas no quadro a seguir.
 
-<h3 align="center">Persona 1</h3>
+<h3 align="center"> Persona 1 </h3>
 
 | **Aspectos**        | **Detalhes**                                       | **Observações**                                    |
 |---------------------|----------------------------------------------------|----------------------------------------------------|
@@ -26,7 +26,7 @@ Personas - As personas levantadas durante o processo de entendimento do problema
 
 
 
-<h3 align="center">Persona 2</h3>
+<h3 align="center"> Persona 2 </h3>
 
 
 | **Aspectos**        | **Detalhes**                                       | **Observações**                                    |
@@ -45,7 +45,7 @@ Personas - As personas levantadas durante o processo de entendimento do problema
 
 
 
-<h3 align="center">Persona 3</h3>
+<h3 align="center"> Persona 3 </h3>
 
 
 
@@ -63,6 +63,7 @@ Personas - As personas levantadas durante o processo de entendimento do problema
 |                     | A família é a base do sucesso                      | A aparência importa                                |
 | **Frustrações**     | Não pode aumentar a família                        | Morar longe dos pais, Dificuldades de empreender   |
 | **Motivações**      | Ter uma família feliz e unida,  Ser bem sucedida   | Ajudar mulheres a se sentirem mais bonitas e poderosas e Comprar uma casa no campo|
+
 
 ## Histórias de Usuários
 
