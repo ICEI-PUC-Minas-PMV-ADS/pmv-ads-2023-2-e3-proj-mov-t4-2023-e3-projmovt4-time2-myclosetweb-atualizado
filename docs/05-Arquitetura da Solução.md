@@ -118,8 +118,6 @@ imagem da tabela de qualidade de software](https://github.com/ICEI-PUC-Minas-PMV
 - **Conformidade:** Adesão às melhores práticas e padrões da indústria para design de UI/UX.
 
 
-![Relação entre funcionalidade e usabilidade](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/funionalidadexusabilidade.png)
-
 
 ## Qualidade dos Padrões de Codificação
 
