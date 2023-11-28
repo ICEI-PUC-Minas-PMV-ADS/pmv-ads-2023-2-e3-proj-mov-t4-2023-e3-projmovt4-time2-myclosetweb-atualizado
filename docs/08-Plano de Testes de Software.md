@@ -23,16 +23,8 @@
 | 3. Escolher as peças de roupa desejadas do guarda-roupas. | |
 | 4. Nomear e salvar o look.                    | |
 
-| **Caso de Teste 3: Gerenciamento de Favoritos**  |                           |
-| ----------------------------------------------- | ------------------------- |
-| **Requisito Referente**                         | RF-006, RF-007 (ALTA)     |
-| **Descrição**                                   | Verificar se os usuários podem marcar roupas como favoritas e acessá-las facilmente. |
-| **Objetivo do Teste**                           | Avaliar a funcionalidade de marcação de roupas como favoritas e visualização da lista de favoritos. |
-| **Passos**                                      | **Critérios de Êxito**    |
-| 1. Abrir o aplicativo.                         | A peça de roupa é marcada como favorita e aparece na lista de favoritos. |
-| 2. Navegar para a seção de favoritos.          | |
 
-| **Caso de Teste 4: Filtragem e Busca**          |                           |
+| **Caso de Teste 3: Filtragem e Busca**          |                           |
 | ----------------------------------------------- | ------------------------- |
 | **Requisito Referente**                         | RF-009 (ALTA)             |
 | **Descrição**                                   | Verificar se os usuários podem filtrar suas roupas por categorias. |
@@ -43,7 +35,7 @@
 | 3. Selecionar uma categoria (por exemplo, camisetas). | |
 | 4. Verificar se as peças de roupa são filtradas corretamente. | |
 
-| **Caso de Teste 5: Edição e Remoção de Roupas** |                           |
+| **Caso de Teste 4: Edição e Remoção de Roupas** |                           |
 | ----------------------------------------------- | ------------------------- |
 | **Requisitos Referentes**                      | RF-010, RF-011 (ALTA)     |
 | **Descrição**                                   | Verificar se os usuários podem editar as informações das roupas cadastradas e remover roupas do guarda-roupas. |
@@ -55,7 +47,7 @@
 | 4. Salvar as alterações.                      | |
 | 5. Remover uma peça de roupa do guarda-roupas. | |
 
-| **Caso de Teste 6: Cadastro e login de usuario** |                           |
+| **Caso de Teste 5: Cadastro e login de usuario** |                           |
 | ----------------------------------------------- | ------------------------- |
 | **Requisitos Referentes**                      | RNF-004, RF-012 (ALTA)     |
 | **Descrição**                                   | Verificar se os usuários conseguem realizar o cadastro de email e senha e fazer login em seguida. |
