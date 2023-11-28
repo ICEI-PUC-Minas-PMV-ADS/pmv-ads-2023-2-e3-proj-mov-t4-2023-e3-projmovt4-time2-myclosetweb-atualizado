@@ -17,10 +17,6 @@ export default function Header() {
             <Link to='/about' className="font-bold text-white"></Link>
           </li>
           <li>
-            <Link to='/signin'>
-              {/* Use the login image instead of text */}
-              <img src={loginImageUrl} alt="Login" className="w-30 h-12" />
-            </Link>
           </li>
         </ul>
       </div>
