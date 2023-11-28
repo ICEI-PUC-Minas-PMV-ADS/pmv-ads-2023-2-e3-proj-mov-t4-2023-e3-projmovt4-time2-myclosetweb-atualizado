@@ -34,60 +34,10 @@ Aqui, o usuário que está acessando a aplicação pela primeira vez irá digita
 
 
 
-
-
-**TELA DE MENU**
-
-Uma vez dentro da aplicação, apresentamos ao usuário um menu minimalista onde o usuário poderá encontrar tudo que precisa para interagir com o aplicativo.
-
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Menu.png">
-
-
 **TELA PRINCIPAL**
 
 Na página principal, apresentamos ao usuário o seu Closet virtual. Na parte superior esquerda, encontramos o ícone responsável pelo acesso ao menu. Logo abaixo percebe-se o ícone da lupa, onde o usuário fará a busca de suas peças no closet. Na parte central da página encontramos as últimas duas peças adicionadas e logo abaixo o botão de adicionar uma nova peça.
 
 <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Principal.png">
 
-
-**TELA ADICIONAR PEÇA**
-
-Ao escolher selecionar o botão Adicionar Peça, o usuário será levado a esta tela, onde poderá colocar uma foto da peça a ser adicionada, além de adicionar informações específicas sobre à mesma, tal como: Cor, tamanho, modelo, tecido e tipo.
-
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Add.png">
-
-
-**TELA CATEGORIAS**
-
-Dentro do menu Categorias, o usuário terá acesso aos menus de Filtros (para pesquisa de peças de forma mais específica), Itens para Doação (parte específica a ser alimentada com peças direcionadas à doação) e Peças Desejos (a ser alimentada com peças ainda a serem compradas).
-
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Categorias.png">
-
-
-**TELA DE FILTROS**
-
-Visando fazer uma busca mais específica e completa no seu closet virtual, o usuário poderá selecionar informações (cor, modelo, tecido etc) que irão direcionar a sua busca.
-
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Filtros.png">
-
-
-**TELA DE FAVORITOS**
-
-Nesta parte do aplicativo o usuário irá encontrar todas as suas peças preferidas que foram assim selecionadas.
-
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Favoritos.png">
-
-
-**TELA DE PERFIL**
-
-Na página do perfil do usuário, o mesmo poderá adicionar a sua foto, além de editar suas informações, tais como: Nome completo, email e telefone. Na parte superior da tela ainda encontramos o menu de busca.
-
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Perfil.png">
-
-
-**TELA DE ERRO**
-
-Se por qualquer motivo o aplicativo apresentar erro, esta tela será apresentada ao usuário. A mesma possuirá um botão na extremidade inferior possibilitando o retorno à página principal.
-
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Erro.png">
 
