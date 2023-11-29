@@ -36,8 +36,10 @@ Aqui, o usuário que está acessando a aplicação pela primeira vez irá digita
 
 **TELA PRINCIPAL**
 
-Na página principal, apresentamos ao usuário o seu Closet virtual. Na parte superior esquerda, encontramos o ícone responsável pelo acesso ao menu. Logo abaixo percebe-se o ícone da lupa, onde o usuário fará a busca de suas peças no closet. Na parte central da página encontramos as últimas duas peças adicionadas e logo abaixo o botão de adicionar uma nova peça.
+Na página principal, apresentamos ao usuário o seu Closet virtual. Na parte superior ele podera adicionar peças e escolher a categoria TOP ou BOTTOM, existe também uma opção de pesquisar e uma opção para navegar 
+entre as peças adicionadas em um carrossel de imagens.
 
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Tela%20Principal.png">
+
+![gif ta maluco](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/104511336/5942ed56-a830-4f83-a5c6-2d2ba1d43577)
 
 
