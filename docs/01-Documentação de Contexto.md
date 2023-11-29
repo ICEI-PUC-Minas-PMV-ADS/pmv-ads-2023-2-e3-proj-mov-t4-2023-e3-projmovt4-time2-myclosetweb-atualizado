@@ -27,14 +27,9 @@
 
 Como objetivos específicos, podemos destacar:
 - Conceder ao usuário um closet online com a função de ter suas peças de roupas;
-- Fornecer maior customização da experiência de uso, através da criação de filtros de pesquisa que irão possibilitar uma busca mais assertiva e direcionada de resultados (cores, tamanho, marca, estação, modelagem, etc), facilitando assim a procura pela roupa perfeita para a ocasião;
+- Fornecer maior customização da experiência de uso, através da criação de filtros de pesquisa que irão possibilitar uma busca mais assertiva e direcionada de resultados (parte superior ou inferior), facilitando assim a procura pela roupa perfeita para a ocasião;
 - Opção de adicionar fotos da peça para facilitar a visualização;
-- Possibilidade de montar em um manequim o look antes de pegar no armário físico e vestir.
-- Opção de “favoritar” as peças que você mais utiliza;
-- Histórico de uso, caso não queira repetir o look na mesma semana;
-- Alerta ao adicionar peças parecidas para evitar que se consuma sem necessidade;
 - Opção de adicionar, excluir peças;
-- O usuário poderá criar listas de roupas para a doação, ou até mesmo uma lista de compras necessárias.
 
 
 ## Justificativa
