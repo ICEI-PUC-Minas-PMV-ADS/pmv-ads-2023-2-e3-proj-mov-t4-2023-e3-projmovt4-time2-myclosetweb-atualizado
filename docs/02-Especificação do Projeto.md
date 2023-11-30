@@ -114,21 +114,12 @@ O aplicativo focará inicialmente em roupas e acessórios, excluindo outros tipo
   
 ![img/02-bpmn-proc1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Blank%20diagram%20-%20Page%201.png)
 
-### Processo 2 – Troca e Venda de Roupas
-
-#### Oportunidades de Melhorias:
-- Implementar um sistema de avaliação para os usuários e produtos.
-- Facilitar o processo de pagamento e envio.
-
-![(img/02-bpmn-proc2.png)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Blank%20diagram%20-%20Page%202.png)
-
 ## Indicadores de Desempenho
 
 **Indicador**|**Objetivo**|**Descrição**|**Fonte e Dados**|**Perspectiva**
 :-----:|:-----:|:-----:|:-----:|:-----:
 Taxa de Utilização do Closet Online|Estimular a inserção de peças no closet online|Percentual de peças de roupas cadastradas|Banco de Dados de Peças|Interna
 Taxa de Uso da Funcionalidade de Montagem de Looks|Avaliar a utilidade da funcionalidade|Percentual de usuários que utilizaram a funcionalidade|Registro de Atividades|Cliente
-Taxa de Interação com Listas (Doação e Compras)|Avaliar a utilização das listas|Percentual de usuários que criaram ou interagiram com listas|Registro de Atividades|Cliente
 Taxa de Sucesso em Adicionar/Excluir Peças|Verificar a eficiência das ações|Percentual de ações de adição/exclusão de peças bem-sucedidas|Registro de Atividades|Interna
 Taxa de Sucesso de Login|Monitorar a eficiência de login|Percentual de logins bem-sucedidos|Registro de Atividades|Interna
 
@@ -149,7 +140,6 @@ A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas p
 |RF-005| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   ALTA   | 
 |RF-006| Os usuários podem marcar roupas como favoritas para fácil acesso posterior.                                |   ALTA   | 
 |RF-007| Haverá uma seção específica onde os itens favoritos podem ser visualizados.                                |   ALTA   | 
-|RF-008| Os usuários podem adicionar roupas à lista de doações, indicando quais itens desejam doar.                 |   MÉDIA  |
 |RF-009| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
 |RF-010| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
 |RF-011| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   |
