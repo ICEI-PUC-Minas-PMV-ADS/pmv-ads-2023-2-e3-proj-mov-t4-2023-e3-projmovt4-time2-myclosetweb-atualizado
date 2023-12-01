@@ -100,12 +100,10 @@ Atualmente, as pessoas utilizam métodos tradicionais, como armários físicos e
 O aplicativo focará inicialmente em roupas e acessórios, excluindo outros tipos de itens como eletrodomésticos.
 
 #### Estratégias e Objetivos:
-- Reduzir o desperdício através de trocas e doações.
 - Oferecer uma plataforma intuitiva para gerenciar itens de vestuário.
 
 #### Oportunidades de Melhorias:
-- Automatizar o processo de categorização e sugestão de looks.
-- Integração com lojas online para facilitar vendas e compras.
+- Automatizar o processo de categorização.
 
 ### Processo 1 – Gerenciamento de Itens
 
@@ -134,16 +132,14 @@ A Tabela a seguir apresenta os requisitos funcionais do projeto, bem como suas p
 |ID    | Descrição do Requisito                                                                                     |Prioridade|
 |------|------------------------------------------------------------------------------------------------------------|----------|
 |RF-001| Permitir que o usuário cadastre peças de roupas.                                                           |   ALTA   | 
-|RF-002| Os usuários devem poder cadastrar informações sobre suas roupas, como nome, categoria, cor, tamanho e marca|   MÉDIA  |
+|RF-002| Os usuários devem poder cadastrar informações sobre suas roupas, como sua categoria.                    |   MÉDIA  |
 |RF-003| Os usuários podem adicionar uma foto da roupa ao cadastrá-la.                                              |   ALTA   | 
 |RF-004| O cadastro de roupas deve ser intuitivo e fácil de completar.                                              |   MÉDIA  |
 |RF-005| Os usuários devem poder criar looks combinando diferentes peças de roupa do seu guarda-roupa.              |   ALTA   | 
-|RF-006| Os usuários podem marcar roupas como favoritas para fácil acesso posterior.                                |   ALTA   | 
-|RF-007| Haverá uma seção específica onde os itens favoritos podem ser visualizados.                                |   ALTA   | 
-|RF-009| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
-|RF-010| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
-|RF-011| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   |
-|RF-012| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   ALTA   |
+|RF-006| Os usuários podem filtrar suas roupas por categorias (por exemplo, camisetas, calças, vestidos, etc.).     |   ALTA   | 
+|RF-007| Os usuários devem poder editar as informações das roupas cadastradas                                       |   ALTA   | 
+|RF-008| Os usuários também devem poder remover roupas do guarda-roupa.                                             |   ALTA   |
+|RF-009| Os usuários devem conseguir realizar o cadastro de nova conta.                                             |   ALTA   |
 
 ### Requisitos não Funcionais
 
