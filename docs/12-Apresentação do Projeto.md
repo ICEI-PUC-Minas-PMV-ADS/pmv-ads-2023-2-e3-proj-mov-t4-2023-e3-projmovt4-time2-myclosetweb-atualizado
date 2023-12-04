@@ -4,7 +4,7 @@
 
 Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos:
 
-![Apresentação](img/MYCloset_Apresentação_atualizado_final.pdf)
+![Apresentação]([img/MYCloset_Apresentação_atualizado_final.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/MYCloset_Apresenta%C3%A7%C3%A3o_atualizado_final.pdf)
 
 ## Título do Projeto
 
@@ -12,7 +12,7 @@ MyCloset
 
 ## Identidade Visual (Marca, Design)
 
-![Identidade Visual (Marca, Design)](img/meu_closet_identidade_visual.png)
+![Identidade Visual (Marca, Design)]([img/meu_closet_identidade_visual.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/my_closet_identidade_visual.png))
 
 ## Conjunto de Slides (Estrutura)
 
