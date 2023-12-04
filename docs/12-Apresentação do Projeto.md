@@ -12,7 +12,7 @@ MyCloset
 
 ## Identidade Visual (Marca, Design)
 
-![Apresentação do projeto](img/meu_closet_identidade_visual.png)
+(img/meu_closet_identidade_visual.png)
 
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
