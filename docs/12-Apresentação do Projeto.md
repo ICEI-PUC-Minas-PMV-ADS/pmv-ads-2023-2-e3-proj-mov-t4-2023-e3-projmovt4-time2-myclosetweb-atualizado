@@ -2,9 +2,8 @@
 
 <span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
 
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos:
+<img width="604" alt="Screenshot 2023-12-04 at 7 53 04 PM" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/112135152/d20c4f2e-61df-419f-8b1e-a5b7ecffe2d0">
 
-![Apresentação]([img/MYCloset_Apresentação_atualizado_final.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/MYCloset_Apresenta%C3%A7%C3%A3o_atualizado_final.pdf)
 
 ## Título do Projeto
 
