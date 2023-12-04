@@ -20,7 +20,3 @@ O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro 
 
 ![Estrutura]([img/MYCloset_Apresentação_atualizado_final.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/MYCloset_Apresenta%C3%A7%C3%A3o_atualizado_final.pdf)
  
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
