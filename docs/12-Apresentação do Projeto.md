@@ -12,7 +12,7 @@ MyCloset
 
 ## Identidade Visual (Marca, Design)
 
-![Identidade Visual (Marca, Design)]([img/meu_closet_identidade_visual.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/my_closet_identidade_visual.png))
+([img/meu_closet_identidade_visual.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/my_closet_identidade_visual.png)
 
 ## Conjunto de Slides (Estrutura)
 
