@@ -105,13 +105,6 @@ O aplicativo focará inicialmente em roupas e acessórios, excluindo outros tipo
 #### Oportunidades de Melhorias:
 - Automatizar o processo de categorização.
 
-### Processo 1 – Gerenciamento de Itens
-
-#### Oportunidades de Melhorias:
-- Utilizar tecnologia de reconhecimento de imagem para categorizar itens automaticamente.
-  
-![img/02-bpmn-proc1.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/blob/main/docs/img/Blank%20diagram%20-%20Page%201.png)
-
 ## Indicadores de Desempenho
 
 **Indicador**|**Objetivo**|**Descrição**|**Fonte e Dados**|**Perspectiva**
