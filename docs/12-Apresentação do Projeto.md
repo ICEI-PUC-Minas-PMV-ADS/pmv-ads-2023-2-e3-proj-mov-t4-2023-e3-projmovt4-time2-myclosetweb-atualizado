@@ -21,5 +21,5 @@ MyCloset
 
 O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
 
-![Estrutura](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/MYCloset_Apresenta%C3%A7%C3%A3o_atualizado_final.pdf)
  
+[Video slide PDF](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/files/13552519/Story.app.delivery.farmacia.moderno.branco.e.azul.1920.x.1080.px.1.pdf)
