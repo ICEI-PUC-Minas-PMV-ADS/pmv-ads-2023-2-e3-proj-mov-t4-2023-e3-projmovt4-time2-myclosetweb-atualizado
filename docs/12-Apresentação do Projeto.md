@@ -4,9 +4,7 @@
 
 Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos:
 
-![Apresentação]([img/MYCloset_Apresentação_do_projeto.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/MYCloset_Apresenta%C3%A7%C3%A3o_do_projeto.pdf)
-
-
+![img/MYCloset_Apresentação_do_projeto.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/MYCloset_Apresenta%C3%A7%C3%A3o_do_projeto.pdf)
 
 ## Título do Projeto
 
