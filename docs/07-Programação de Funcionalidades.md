@@ -1,15 +1,19 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+# Login e Registro:
+O processo seguro de login e registro, alimentado pelo MongoDB, estabelece uma base sólida para interações personalizadas.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/104511336/56a751ba-6bb5-4372-841e-ce7f29e2981c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/104511336/d91fb99e-28d7-40b2-9a5f-6d1cf8b0a517)
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+## MongoDB:
+A escolha flexível do MongoDB como banco de dados permite uma manipulação eficiente de dados, adaptando-se facilmente ao crescimento da plataforma.
+
+# Monte Seu Look:
+Esta funcionalidade permite aos usuários adicionar fotos de suas roupas, ajustando-as visualmente. Gerenciamento de conteúdo inclui a exclusão de fotos, enquanto a pesquisa facilitada otimiza a experiência.
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/104511336/994c5d77-2092-4842-9e24-a80af6647d29
+
+# Resumo:
+Nosso compromisso é criar uma plataforma eficiente e envolvente. O login e registro são seguros e personalizáveis, impulsionados pelo MongoDB. Em "Monte Seu Look", a interatividade visual e o gerenciamento de conteúdo permitem aos usuários personalizar e gerenciar suas escolhas de moda de maneira fácil e eficaz.
