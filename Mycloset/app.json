@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9bcd9d01-92af-4bef-a6c6-afc029e54372"
+      }
+    },
+    "android": {
+      "package": "com.matheusdevx.mycloset"
+    }
+  }
+}
