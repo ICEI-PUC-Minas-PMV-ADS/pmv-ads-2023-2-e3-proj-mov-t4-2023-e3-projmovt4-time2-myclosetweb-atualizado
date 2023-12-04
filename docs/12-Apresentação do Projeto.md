@@ -12,13 +12,13 @@ MyCloset
 
 ## Identidade Visual (Marca, Design)
 
-([img/meu_closet_identidade_visual.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/my_closet_identidade_visual.png)
+![Identidade Visual]([img/meu_closet_identidade_visual.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/my_closet_identidade_visual.png)
 
 ## Conjunto de Slides (Estrutura)
 
 O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
 
-![Apresentação]([img/MYCloset_Apresentação_atualizado_final.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/MYCloset_Apresenta%C3%A7%C3%A3o_atualizado_final.pdf)
+![Estrutura]([img/MYCloset_Apresentação_atualizado_final.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/blob/main/docs/img/MYCloset_Apresenta%C3%A7%C3%A3o_atualizado_final.pdf)
  
 > **Links Úteis**:
 > - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
