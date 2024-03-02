@@ -179,15 +179,29 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-O gerenciamento de tempo em projetos de TI é essencial para manter o projeto no caminho certo, assegurar a utilização eficaz de recursos e evitar surpresas desagradáveis ao longo do processo.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb-atualizado/assets/104511336/490aab36-d7f5-460c-a7b8-4c1b31d0f5e3)
 
-![2dff26c6-d261-4243-9be4-54bef77424e7 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/b0a2cb03-6331-4f62-8b5f-6a7e3aaff60a)
 
 ## Gerenciamento de Equipe
 
-O gerenciamento de equipe em projetos de TI é essencial para garantir a execução bem-sucedida do projeto, maximizando a produtividade, a qualidade e a colaboração entre os membros da equipe.
+A equipe foi organizada, conforme abaixo, da seguinte maneira:
 
-![04f51126-8cc4-482f-8d13-e7a921ab19ad](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-2023-e3-projmovt4-time2-myclosetweb/assets/104511336/eda630a2-6683-4064-9b1a-1223922d1eab)
+- **Scrum Master:** Andressa Guedes
+
+- **Product Owner:** Andressa Guedes
+
+  **Equipe de Desenvolvimento:**
+  * Andressa Guedes
+  * Felipe Viana
+  * Sanderlei Cabral
+  * Matheus Da Silva Câmara
+  * Maria Júlia Silva Medeiros
+                                 
+  **Equipe de Design:**
+  * Felipe Viana
+  * Sanderlei Cabral
+  * Giovanna Maria Elias Coura
+
 
 ## Gestão de Orçamento
 
